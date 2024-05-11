@@ -6,7 +6,7 @@ Video games are big business: the global gaming market is projected to be worth 
 
 # Analysis: 
 
-In this project, we will analyze: 
+In this project, SQL is utilitzed for following analysis: 
 - video game critic and user scores as well as sales data for the top 400 video games released since 1977. 
 - search for a golden age of video games by identifying release years that users and critics liked best 
 - explore the business side of gaming by looking at game sales data.
@@ -17,8 +17,17 @@ Our search will involve joining datasets and comparing results with set theory. 
 
 # Data:
 
-The database contains two tables. Each table has been limited to 400 rows for this project, but you can find the complete dataset with over 13,000 games on Kaggle.
+- The database contains two tables. Each table has been limited to 400 rows for this project
+- You can find the complete dataset with over 13,000 games on Kaggle or in my repo
 
+# Result:
+
+- notebook.ipynb contains the SQL code for the following findings:
+  1. Top 10 best selling video games since 1977
+  2. 10 years with the highest average critic score
+  3. Golden Years; years where critics and users broadly agreed that games released were highly rated
+
+# Schema of the tables used for this analysis
 
 ### `game_sales` table
 
