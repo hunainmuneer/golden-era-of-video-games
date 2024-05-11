@@ -13,7 +13,7 @@ In this project, SQL is utilitzed for following analysis:
 
 # Methodology:
 
-Our search will involve joining datasets and comparing results with set theory. We will also filter, group, and order data. 
+The search will involve joining datasets and comparing results with set theory. As well as using SQL features filter, group, join, limit, aggregate and order data. 
 
 # Data:
 
