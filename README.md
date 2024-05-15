@@ -22,7 +22,7 @@ The search will involve joining datasets and comparing results with set theory. 
 
 # Result:
 
-- notebook.ipynb contains the SQL code for the following findings:
+- This [notebook](notebook.ipynb) contains the SQL code for the following findings:
   1. Top 10 best selling video games since 1977
   2. 10 years with the highest average critic score
   3. Golden Years; years where critics and users broadly agreed that games released were highly rated
